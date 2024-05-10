@@ -1,0 +1,1 @@
+with import <nixpkgs> {}; { python312 = pkgs.python312; }
